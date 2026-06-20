@@ -187,45 +187,22 @@ The dashboard highlights:
 
 ### Executive Overview
 
-![Executive Overview](images/executive-overview.png)
-
----
-
-### Year-over-Year Performance
-
-![YoY Analysis](images/yoy-analysis.png)
-
----
-
-### Regional Performance
-
-![Regional Performance](images/regional-performance.png)
-
----
-
-### Regional Manager Performance
-
-![Manager Performance](images/manager-performance.png)
+![Executive Overview](regional-performance.png)
 
 ---
 
 ### Category Target Achievement
 
-![Category Achievement](images/category-achievement.png)
+![Category Achievement](Category_Target_Achievement.png)
 
 ---
 
 ### Returns Analysis
 
-![Returns Analysis](images/returns-analysis.png)
+![Returns Analysis](Returns Analysis.png)
 
 ---
 
-### Delivery Delay Analysis
-
-![Delivery Delay Analysis](images/delivery-delay-analysis.png)
-
----
 
 
 ## 💡 Key Insights (Example)
