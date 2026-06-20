@@ -199,7 +199,7 @@ The dashboard highlights:
 
 ### Returns Analysis
 
-![Returns Analysis](Returns Analysis.png)
+![Returns Analysis](Returns_Analysis.png)
 
 ---
 
